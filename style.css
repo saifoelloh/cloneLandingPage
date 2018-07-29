@@ -1,0 +1,33 @@
+.navbar {
+    background-color: #02b875;
+}
+.welcome-div {
+    background-image: url(https://i.imgur.com/DxT2XSA.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 600px;
+}
+.about-img {
+    width: 20%;
+}
+.about-text {
+    width: 60%;
+}
+#carouselExampleSlidesOnly {
+    width: 40%;
+}
+.kotak-coba {
+    width: 85%;
+}
+.video-fitur {
+    width: 100%;
+}
+.kotak-maskot {
+    background-color: rgb(2, 184, 117);
+}
+.gambar-maskot {
+    width: 10%;
+}
+.kotak-footer {
+    background-color: gray;
+}
